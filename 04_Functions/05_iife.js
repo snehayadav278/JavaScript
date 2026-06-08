@@ -8,6 +8,7 @@
 //  ()()
 
 ( (name) => {
+    // simple IIFE
     console.log(`DB CONNECTED 2 ${name}`)
 }) ('sneha');
 
