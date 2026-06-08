@@ -59,7 +59,7 @@ function addOne(num){
 // addOne(5);
 
 
-addTwo(4);
+// addTwo(4);
 const addTwo = function(num){
     return num + 2
 }
