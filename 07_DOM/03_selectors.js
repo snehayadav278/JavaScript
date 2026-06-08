@@ -1,6 +1,6 @@
 // ID selector
-const heading = document.getElementById("main-heading");
-console.log(heading);
+const headingSelector = document.getElementById("main-heading");
+console.log(headingSelector);
 
 // Class selector
 const paragraphs = document.getElementsByClassName("text");
