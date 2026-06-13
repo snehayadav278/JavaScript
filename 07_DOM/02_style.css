@@ -1,0 +1,13 @@
+body {
+    font-family: Arial;
+    padding: 20px;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+.highlight {
+    color: red;
+    font-weight: bold;
+}
